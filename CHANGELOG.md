@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.8.0](https://github.com/googleapis/python-media-translation/compare/v0.7.1...v0.8.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#149](https://github.com/googleapis/python-media-translation/issues/149)) ([c1210da](https://github.com/googleapis/python-media-translation/commit/c1210da198758da06697df99e614b7bd1b2d6e7f))
+
 ### [0.7.1](https://www.github.com/googleapis/python-media-translation/compare/v0.7.0...v0.7.1) (2021-11-01)
 
 
